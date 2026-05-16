@@ -21,6 +21,7 @@ theme = 'beautifulhugo'
   dateFormat = ":date_long"
   commit = false
   rss = false
+  toc = false
   readingTime = false
   wordCount = false
   colorScheme = "light"
@@ -53,36 +54,21 @@ theme = 'beautifulhugo'
 
 
 [[menu.main]]
-    identifier = "menu"
-    name = "Menu"
-    weight = 1
-
-[[menu.main]]
-    parent = "menu"
     name = "Home"
     url = "/"
     weight = 1
 
 [[menu.main]]
-    parent = "menu"
     name = "About"
     url = "page/about/"
     weight = 2
 
 [[menu.main]]
-    parent = "menu"
-    name = "Address"
-    url = "page/address/"
-    weight = 3
-
-[[menu.main]]
-    parent = "menu"
     name = "Meetings"
     url = "page/meeting/"
     weight = 4
 
 [[menu.main]]
-    parent = "menu"
     name = "Officers"
     url = "page/officers/"
     weight = 5
