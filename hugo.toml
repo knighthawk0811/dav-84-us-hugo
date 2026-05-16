@@ -10,7 +10,7 @@ theme = 'beautifulhugo'
 
 [Services]
   [Services.googleAnalytics]
-    # id = "XXX"
+    # id = "GTM-KXGB5RTK"
 
 [Params]
   subtitle = "Keeping Our Promise To America's Veterans"
