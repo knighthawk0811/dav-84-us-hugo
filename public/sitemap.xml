@@ -2,43 +2,37 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
-    <loc>http://localhost:1313/tags/2026/</loc>
+    <loc>https://dav84.us/tags/2026/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/announcement/</loc>
+    <loc>https://dav84.us/tags/announcement/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/</loc>
+    <loc>https://dav84.us/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/2026-05-15-meeting-cancelled/</loc>
+    <loc>https://dav84.us/post/2026-05-15-meeting-cancelled/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/meeting/</loc>
+    <loc>https://dav84.us/tags/meeting/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/post/</loc>
+    <loc>https://dav84.us/post/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/tags/</loc>
+    <loc>https://dav84.us/tags/</loc>
     <lastmod>2026-05-15T00:00:00+00:00</lastmod>
   </url><url>
-    <loc>http://localhost:1313/page/about/</loc>
+    <loc>https://dav84.us/page/about/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/junk/</loc>
+    <loc>https://dav84.us/page/address/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/section/</loc>
+    <loc>https://dav84.us/categories/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/stuff/</loc>
+    <loc>https://dav84.us/page/meeting/</loc>
   </url><url>
-    <loc>http://localhost:1313/page/things/</loc>
+    <loc>https://dav84.us/page/officers/</loc>
   </url><url>
-    <loc>http://localhost:1313/categories/</loc>
-  </url><url>
-    <loc>http://localhost:1313/page/meeting/</loc>
-  </url><url>
-    <loc>http://localhost:1313/page/officers/</loc>
-  </url><url>
-    <loc>http://localhost:1313/page/</loc>
+    <loc>https://dav84.us/page/</loc>
   </url>
 </urlset>

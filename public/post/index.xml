@@ -2,19 +2,19 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Posts on DAV 84</title>
-    <link>http://localhost:1313/post/</link>
+    <link>https://dav84.us/post/</link>
     <description>Recent content in Posts on DAV 84</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <managingEditor>contact@dav84.us</managingEditor>
     <webMaster>contact@dav84.us</webMaster>
     <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
-    <atom:link href="http://localhost:1313/post/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://dav84.us/post/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>June 2026 Meeting Cancellation Notice</title>
-      <link>http://localhost:1313/post/2026-05-15-meeting-cancelled/</link>
+      <link>https://dav84.us/post/2026-05-15-meeting-cancelled/</link>
       <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>contact@dav84.us</author>
-      <guid>http://localhost:1313/post/2026-05-15-meeting-cancelled/</guid>
+      <guid>https://dav84.us/post/2026-05-15-meeting-cancelled/</guid>
       <description>&lt;p&gt;We would like to inform all members that the June meeting is cancelled.&lt;/p&gt;&#xA;&lt;p&gt;This cancellation applies only to the June meeting and does not affect any other scheduled gatherings.&lt;/p&gt;&#xA;&lt;h3 id=&#34;july-meeting-confirmation&#34;&gt;July Meeting Confirmation&lt;/h3&gt;&#xA;&lt;p&gt;Our July meeting will proceed as previously scheduled at the &lt;strong&gt;same location and the same time&lt;/strong&gt; as previously communicated. Our meeting location will remain a the Crestwood Elks Lodge on the first Friday of the month at 6:30pm. There are no changes to the July meeting venue, date, or start time.&lt;/p&gt;</description>
     </item>
   </channel>

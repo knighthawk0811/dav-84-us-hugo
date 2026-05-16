@@ -1,0 +1,6 @@
+# Ignore all directories
+*/
+
+# Except for specific directories
+!public/
+.hugo_build.lock
