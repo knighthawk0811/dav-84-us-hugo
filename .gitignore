@@ -3,4 +3,8 @@
 
 # Except for specific directories
 !public/
+
+# files to ignore
+go.mod
+hugo.toml
 .hugo_build.lock
