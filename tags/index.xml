@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Tags on DAV 84</title>
+    <link>https://dav84.us/tags/</link>
+    <description>Recent content in Tags on DAV 84</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contact@dav84.us</managingEditor>
+    <webMaster>contact@dav84.us</webMaster>
+    <lastBuildDate>Fri, 15 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://dav84.us/tags/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>2026</title>
+      <link>https://dav84.us/tags/2026/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>contact@dav84.us</author>
+      <guid>https://dav84.us/tags/2026/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Announcement</title>
+      <link>https://dav84.us/tags/announcement/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>contact@dav84.us</author>
+      <guid>https://dav84.us/tags/announcement/</guid>
+      <description></description>
+    </item>
+    <item>
+      <title>Meeting</title>
+      <link>https://dav84.us/tags/meeting/</link>
+      <pubDate>Fri, 15 May 2026 00:00:00 +0000</pubDate><author>contact@dav84.us</author>
+      <guid>https://dav84.us/tags/meeting/</guid>
+      <description></description>
+    </item>
+  </channel>
+</rss>
