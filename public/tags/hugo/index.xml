@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Hugo on DAV 84</title>
+    <link>http://localhost:1313/tags/hugo/</link>
+    <description>Recent content in Hugo on DAV 84</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <managingEditor>contact@dav84.us (DAV 84)</managingEditor>
+    <webMaster>contact@dav84.us (DAV 84)</webMaster>
+    <lastBuildDate>Mon, 11 May 2026 00:00:00 +0000</lastBuildDate>
+    <atom:link href="http://localhost:1313/tags/hugo/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Beautiful Hugo Bootstrap 5 upgrade!</title>
+      <link>http://localhost:1313/post/2026-05-11-release/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><author>contact@dav84.us (DAV 84)</author>
+      <guid>http://localhost:1313/post/2026-05-11-release/</guid>
+      <description>&lt;p&gt;Beautiful Hugo has upgraded to booststrap v5, with a modernized feature set with dark mode support, upgraded dependencies, and several new shortcodes.&lt;/p&gt;</description>
+    </item>
+    <item>
+      <title>Welcome to Beautiful Hugo</title>
+      <link>http://localhost:1313/post/2026-05-11-theme-features/</link>
+      <pubDate>Mon, 11 May 2026 00:00:00 +0000</pubDate><author>contact@dav84.us (DAV 84)</author>
+      <guid>http://localhost:1313/post/2026-05-11-theme-features/</guid>
+      <description>&lt;p&gt;Welcome to the Beautiful Hugo example site. This theme provides everything you need to build a clean, responsive website with Hugo.&lt;/p&gt;&#xA;&lt;h2 id=&#34;feature-highlights&#34;&gt;Feature Highlights&lt;/h2&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;&lt;strong&gt;Dark mode&lt;/strong&gt; with auto/light/dark switching and system preference detection&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Bootstrap 5&lt;/strong&gt; responsive layout with a collapsible navbar&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;KaTeX&lt;/strong&gt; math rendering (inline and display)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Mermaid&lt;/strong&gt; diagrams (flowcharts, sequence diagrams, Gantt charts)&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;PhotoSwipe 5&lt;/strong&gt; lightbox for images and galleries&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Syntax highlighting&lt;/strong&gt; via Hugo Chroma or client-side Highlight.js&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Shortcodes&lt;/strong&gt;: details, columns, tabs, galleries, figures, mermaid&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;5 comment systems&lt;/strong&gt;: Disqus, Giscus, Utterances, Cusdis, Staticman&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;42 social icons&lt;/strong&gt; in the footer&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;SEO&lt;/strong&gt;: schema.org JSON-LD, Open Graph, Twitter Cards&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;19 languages&lt;/strong&gt; with full i18n support&lt;/li&gt;&#xA;&lt;li&gt;&lt;strong&gt;Self-hosted option&lt;/strong&gt; for all assets (no CDNs required)&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;h2 id=&#34;explore-the-features&#34;&gt;Explore the Features&lt;/h2&gt;&#xA;&lt;p&gt;Use the &lt;strong&gt;Features&lt;/strong&gt; dropdown in the navigation bar to browse detailed documentation for each feature, with live examples and configuration snippets.&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
