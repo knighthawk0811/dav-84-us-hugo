@@ -1,10 +1,14 @@
-# Ignore all directories
-*/
+# Hugo output
+public/
+resources/_gen/
 
-# Except for specific directories
-!public/
-
-# files to ignore
-go.mod
-hugo.toml
+# Hugo
 .hugo_build.lock
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Editor files
+.vscode/
+.idea/
