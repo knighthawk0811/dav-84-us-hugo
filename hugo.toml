@@ -77,3 +77,4 @@ theme = 'beautifulhugo'
     name = "Officers"
     url = "page/officers/"
     weight = 5
+
