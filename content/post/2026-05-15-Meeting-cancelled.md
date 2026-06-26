@@ -1,6 +1,6 @@
 ---
 title: June 2026 Meeting Cancellation Notice
-subtitle: July Meeting wil continue as usual
+subtitle: July Meeting will continue as usual
 date: 2026-05-15
 comments: false
 ---
