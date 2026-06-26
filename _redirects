@@ -1,0 +1,6 @@
+# Redirects from what the browser requests to what we serve
+/student                /   301!
+
+
+# email list subscription form
+/subscribe           http://eepurl.com/Er331fhasd 301!
