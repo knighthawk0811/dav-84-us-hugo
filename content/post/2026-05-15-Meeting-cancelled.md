@@ -3,6 +3,7 @@ title: June 2026 Meeting Cancellation Notice
 subtitle: July Meeting will continue as usual
 date: 2026-05-15
 comments: false
+tags: ["featured"]
 ---
 
 We would like to inform all members that the June meeting is cancelled.

@@ -78,3 +78,9 @@ theme = 'beautifulhugo'
     url = "page/officers/"
     weight = 5
 
+
+[[menu.main]]
+    name = "Resources"
+    url = "page/resources/"
+    weight = 6
+
