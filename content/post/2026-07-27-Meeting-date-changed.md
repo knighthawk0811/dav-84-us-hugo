@@ -1,7 +1,7 @@
 ---
 title: August 2026 Meeting Date Change
 subtitle: September Meeting will continue as usual
-date: 2026-05-15
+date: 2026-07-27
 comments: false
 tags: ["featured"]
 ---
