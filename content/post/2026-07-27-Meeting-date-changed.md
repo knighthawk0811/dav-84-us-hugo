@@ -6,7 +6,7 @@ comments: false
 tags: ["featured"]
 ---
 
-We would like to inform all members that the date for our August meeting has been moved to August 14th.
+We would like to inform all members that the date for our August meeting has been **moved to August 14th**.
 
 This change applies only to the August meeting and does not affect any other scheduled gatherings.
 
