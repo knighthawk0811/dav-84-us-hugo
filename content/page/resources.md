@@ -7,5 +7,8 @@ bigimg:
     desc: ""
     position: center center
 ---
+## Chapter Bylaws
+
+<a href="/page/bylaws">Chapter 84 Bylaws</a>
 
 ## Local Veteran Resources
