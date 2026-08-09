@@ -30,10 +30,10 @@ Date - Time - Location
 
 {{< callout warning "NOTES" >}}
 - DAV 84 will accept volunteers for training at our August meeting
-- DAV 84 will make & pay for hotel reservations for Friday night so members can drive down the day before
-- DAV 84 will reimburse volunteers for meals during training (to a limit)
+- DAV 84 will make & pay for hotel reservations for Friday & Saturday night so members can drive down the day before and not be forced to drive at night on the way back
+- DAV 84 will reimburse volunteers for meals during training (check the daily limit)
 - DAV 84 will pay travel mileage rates for training (carpooling is common, only the driver receives reimbursement)
-- {{< newtab url="https://www.irs.gov/tax-professionals/standard-mileage-rates" >}}IRS mileage rates{{< /newtab >}} = $0.14/mile  
+- {{< newtab url="https://www.irs.gov/tax-professionals/standard-mileage-rates" >}}IRS mileage rates{{< /newtab >}} = $0.14/mile for charities
 {{< /callout >}}
 
 
