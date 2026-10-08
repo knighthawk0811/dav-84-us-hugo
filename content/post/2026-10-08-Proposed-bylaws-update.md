@@ -18,4 +18,4 @@ Minutes of the meetings of the Chapter, including the Chapter Executive Committe
 
 Proposal:
 Article 1, Section 3:
-Minutes of the meetings of the Chapter, including the Chapter Executive Committee, together with the monthly chapter fnancle report and the annual financial report, shall be kept and be available for inspection by any Chapter member.
+Minutes of the meetings of the Chapter, including the Chapter Executive Committee, together with the monthly chapter financial report and the annual financial report, shall be kept and be available for inspection by any Chapter member.
